@@ -1,1 +1,1 @@
-lmsysorg/sglang:v0.4.6.post1-cu121
+unsloth/unsloth:2025.10.1-pt2.8.0-cu12.8-1lamacpp-integration

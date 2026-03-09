@@ -1,1 +1,1 @@
-chromadb/chroma:1.5.2
+chromadb/chroma:0.5.5

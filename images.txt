@@ -1,1 +1,1 @@
-calciumion/new-api:v1.0.0-rc.8
+chromadb/chroma:0.6.3

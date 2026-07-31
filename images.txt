@@ -1,1 +1,1 @@
-chromadb/chroma:0.6.3
+--platform linux/arm64 chromadb/chroma:0.5.5

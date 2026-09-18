@@ -1,1 +1,1 @@
---platform linux/arm64 chromadb/chroma:0.5.5
+new-api:v1.0.0-rc.37
